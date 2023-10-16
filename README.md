@@ -1,4 +1,5 @@
 CLAVIS
-TReK G70 CLAVIS KiCAD Project
+
+- TReK G70 CLAVIS KiCAD Project
 
 [Firmware repository](https://github.com/digitarhythm/qmk_firmware/tree/digitarhythm/keyboards/gl516/clavis)
